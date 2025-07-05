@@ -45,21 +45,21 @@ CheckoutService.checkout(customer, cart);
 ```
 # Sample output
 
-Hello Ahmed;)
-Welcome to Aisha's e-commerce
-** Shipment notice **
-1x Cheese 300g
-1x Cheese 300g
-1x TV 1500g
-1x Biscuits 70g
-Total package weight 2.2kg
-** Checkout receipt **
-2x Cheese 200
-1x TV 300
-1x Scratch Card 50
-1x Biscuits 150
------------------------------
-Subtotal 700
-Shipping 22
-Total Amount 722
-Ahmed's Remaining Balance 278
+    Hello Ahmed;)
+    Welcome to Aisha's e-commerce
+    ** Shipment notice **
+    1x Cheese 300g
+    1x Cheese 300g
+    1x TV 1500g
+    1x Biscuits 70g
+    Total package weight 2.2kg
+    ** Checkout receipt **
+    2x Cheese 200
+    1x TV 300
+    1x Scratch Card 50
+    1x Biscuits 150
+    -----------------------------
+    Subtotal 700
+    Shipping 22
+    Total Amount 722
+    Ahmed's Remaining Balance 278
