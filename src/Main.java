@@ -29,7 +29,7 @@ public class Main {
         cart.add(biscuits, 1);
 
         System.out.println("\n");
-        System.out.println("Hello " + customer.getName() + ";)\n");
+        System.out.println("Hello " + customer.getName() + ";)");
         System.out.println("Welcome to Aisha's e-commerce\n");
         CheckoutService.checkout(customer, cart);
     }

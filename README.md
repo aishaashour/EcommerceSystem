@@ -65,3 +65,21 @@ CheckoutService.checkout(customer, cart);
     Shipping 22
     Total Amount 722
     Ahmed's Remaining Balance 278
+
+# Sample output: if product is expired 
+
+    Hello Ahmed;)
+    Welcome to Aisha's e-commerce
+    Error: Sorry Product Cheese is expired.
+
+# Sample output: if Insufficient customer balance
+
+    Hello Ahmed;)
+    Welcome to Aisha's e-commerce
+    Error: Insufficient customer balance.
+
+# Sample output: if out of stock
+
+    Hello Ahmed;)
+    Welcome to Aisha's e-commerce
+    Error: Sorry Not enough stock for Cheese
