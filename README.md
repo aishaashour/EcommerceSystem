@@ -46,9 +46,7 @@ CheckoutService.checkout(customer, cart);
 # Sample output
 
 Hello Ahmed;)
-
 Welcome to Aisha's e-commerce
-
 ** Shipment notice **
 1x Cheese 300g
 1x Cheese 300g
