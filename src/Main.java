@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Product cheese = new Product("Cheese", 100, 10, 300, LocalDate.of(2025, 7, 17), true);
         Product tv = new Product("TV", 300, 5, 1500, null, true);
-        Product scratchCard = new Product("Scratch Card", 50, 100, 200, null, false);
+        Product scratchCard = new Product("Scratch Card", 50, 100, 100, null, false);
         Product biscuits = new Product("Biscuits", 150, 2, 70, LocalDate.of(2025, 7, 5), true);
 
         Customer customer = new Customer("Ahmed", 1000);

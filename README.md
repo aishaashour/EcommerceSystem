@@ -55,7 +55,6 @@ Welcome to Aisha's e-commerce
 1x TV 1500g
 1x Biscuits 70g
 Total package weight 2.2kg
- 
 ** Checkout receipt **
 2x Cheese 200
 1x TV 300
