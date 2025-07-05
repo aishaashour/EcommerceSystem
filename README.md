@@ -24,6 +24,8 @@ This project is a simple object-oriented (Java-based e-commerce system), built a
 # Sample Usage
 
 ```java
+// this is just test for successful checkout case
+//you can change quantity or balance or expiry-date to check error handling
 Product cheese = new Product("Cheese", 100, 10, 300, LocalDate.of(2025, 7, 17), true);
 Product tv = new Product("TV", 300, 5, 1500, null, true);
 Product scratchCard = new Product("Scratch Card", 50, 100, 200, null, false);
