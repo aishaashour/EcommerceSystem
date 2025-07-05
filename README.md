@@ -19,7 +19,7 @@ This project is a simple object-oriented (Java-based e-commerce system), built a
 - Console-based interface for interaction
 
 # Product Types
-- product may be Expirable or Shippable or both.
+- product may be Expirable or Shippable or both or none.
 
 # Sample Usage
 
