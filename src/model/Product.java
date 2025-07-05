@@ -53,7 +53,7 @@ public class Product implements Expirable, Shippable {
     @Override
     public boolean isExpired() {
         if (expiryDate == null)
-            return false; // non-expirable
+            return false; // if product non-expirable
         return expiryDate.isBefore(LocalDate.now());
     }
 
